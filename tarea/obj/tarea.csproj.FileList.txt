@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\tarea.Form1.resources
+obj\Debug\tarea.Properties.Resources.resources
+obj\Debug\tarea.csproj.GenerateResource.Cache
+bin\Debug\tarea.exe
+bin\Debug\tarea.pdb
+obj\Debug\tarea.exe
+obj\Debug\tarea.pdb
